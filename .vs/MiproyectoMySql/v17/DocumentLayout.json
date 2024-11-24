@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ronnie\\source\\repos\\MiproyectoMySql\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{484150AB-D181-44C6-81F1-DA98AE269770}|MiproyectoMySql\\MiproyectoMySql.csproj|c:\\users\\ronnie\\source\\repos\\miproyectomysql\\miproyectomysql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484150AB-D181-44C6-81F1-DA98AE269770}|MiproyectoMySql\\MiproyectoMySql.csproj|solutionrelative:miproyectomysql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484150AB-D181-44C6-81F1-DA98AE269770}|MiproyectoMySql\\MiproyectoMySql.csproj|c:\\users\\ronnie\\source\\repos\\miproyectomysql\\miproyectomysql\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484150AB-D181-44C6-81F1-DA98AE269770}|MiproyectoMySql\\MiproyectoMySql.csproj|solutionrelative:miproyectomysql\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484150AB-D181-44C6-81F1-DA98AE269770}|MiproyectoMySql\\MiproyectoMySql.csproj|c:\\users\\ronnie\\source\\repos\\miproyectomysql\\miproyectomysql\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{484150AB-D181-44C6-81F1-DA98AE269770}|MiproyectoMySql\\MiproyectoMySql.csproj|solutionrelative:miproyectomysql\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484150AB-D181-44C6-81F1-DA98AE269770}|MiproyectoMySql\\MiproyectoMySql.csproj|c:\\users\\ronnie\\source\\repos\\miproyectomysql\\miproyectomysql\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484150AB-D181-44C6-81F1-DA98AE269770}|MiproyectoMySql\\MiproyectoMySql.csproj|solutionrelative:miproyectomysql\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 253,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Ronnie\\source\\repos\\MiproyectoMySql\\MiproyectoMySql\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "MiproyectoMySql\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Ronnie\\source\\repos\\MiproyectoMySql\\MiproyectoMySql\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "MiproyectoMySql\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T21:34:35.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Ronnie\\source\\repos\\MiproyectoMySql\\MiproyectoMySql\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "MiproyectoMySql\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Ronnie\\source\\repos\\MiproyectoMySql\\MiproyectoMySql\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "MiproyectoMySql\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T21:29:53.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ronnie\\source\\repos\\MiproyectoMySql\\MiproyectoMySql\\appsettings.json",
+              "RelativeDocumentMoniker": "MiproyectoMySql\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ronnie\\source\\repos\\MiproyectoMySql\\MiproyectoMySql\\appsettings.json",
+              "RelativeToolTip": "MiproyectoMySql\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T21:29:04.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ronnie\\source\\repos\\MiproyectoMySql\\MiproyectoMySql\\Program.cs",
+              "RelativeDocumentMoniker": "MiproyectoMySql\\Program.cs",
+              "ToolTip": "C:\\Users\\Ronnie\\source\\repos\\MiproyectoMySql\\MiproyectoMySql\\Program.cs",
+              "RelativeToolTip": "MiproyectoMySql\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAwwBsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:51:42.076Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
